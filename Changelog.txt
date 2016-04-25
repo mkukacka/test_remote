@@ -1,3 +1,9 @@
 # Changelog
 
 This is a changelog for Main
+
+## 16.2 Release change log
+
+* List of features:
+  * 1
+  * 2
